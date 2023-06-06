@@ -1,6 +1,6 @@
 const generate = require("./generateMDX.js");
 const fs = require("fs");
-
+const fetch = require('node-fetch');
 console.log('Generating MDX')
 
 getMDX();

@@ -16,6 +16,9 @@ jobs:
           cache: yarn
       - run: yarn install --frozen-lockfile
 
+      - name: Install node-fetch
+        run: yarn add --dev node-fetch
+
       - name: Build
         run: yarn build
       - name: Deploy
