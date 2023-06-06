@@ -14,6 +14,8 @@ async function getMDX() {
 
     console.log(releases)
 
+    if (!releases || !releases.length) return console.log('No releases found')
+
     const mdxGenerated = releases.map((release) => {
         return {
             title: release.name,
