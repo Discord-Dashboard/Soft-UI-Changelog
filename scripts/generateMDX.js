@@ -30,7 +30,6 @@ export async function getStaticProps() {
 
 ${description.replace("What's changed", "Improvements")}
 
-
 `;
     })
     return mdx
