@@ -17,7 +17,7 @@ jobs:
       - run: yarn install --frozen-lockfile
 
       - name: Install node-fetch
-        run: yarn add --dev node-fetch
+        run: yarn add --dev node-fetch@2.6.5
 
       - name: Build
         run: yarn build
