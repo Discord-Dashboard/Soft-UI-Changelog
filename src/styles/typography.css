@@ -3,9 +3,9 @@
   --typography-headings: theme(colors.gray.900);
   --typography-quotes: theme(colors.gray.500);
   --typography-quotes-border: theme(colors.gray.200);
-  --typography-links: theme(colors.sky.500);
+  --typography-links: theme(colors.orange.500);
   --typography-link-hover: theme(colors.sky.600);
-  --typography-link-underline: theme(colors.sky.400 / 0.4);
+  --typography-link-underline: theme(colors.orange.500 / 0.4);
   --typography-link-hover-underline: theme(colors.sky.600 / 0.4);
   --typography-pre: theme(colors.gray.300);
   --typography-pre-shadow: theme(boxShadow.md);
