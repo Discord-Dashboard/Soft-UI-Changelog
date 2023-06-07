@@ -4,7 +4,6 @@ import Image from 'next/image'
 
 import { IconLink } from '@/components/IconLink'
 import { Logo } from '@/components/Logo'
-import { AssistansLogo } from '@/components/AssistansLogo'
 import { SignUpForm } from '@/components/SignUpForm'
 
 function BookIcon(props) {
@@ -69,8 +68,13 @@ export function Intro() {
     <>
       <div>
         <Link href="/">
-          <Image src={'/Assistants_NoBG.png'} alt={'Logo'}></Image>
-          <Logo className="inline-block h-8 w-auto" />
+          <Image
+            src={'/Assistants_NoBG.png'}
+            alt={'Logo'}
+            width={'100'}
+            height={'100'}
+          ></Image>
+          {/*<Logo className="inline-block h-8 w-auto" />*/}
         </Link>
       </div>
       <h1 className="mt-14 font-display text-4xl/tight font-light text-white">
