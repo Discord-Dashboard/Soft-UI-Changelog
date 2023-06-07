@@ -79,7 +79,7 @@ export function Intro() {
       </div>
       <h1 className="mt-14 font-display text-4xl/tight font-light text-white">
         The latest changelog{' '}
-        <span className="text-sky-300">
+        <span className="text-orange-500">
           for Discord Dashboards Soft-UI theme
         </span>
       </h1>

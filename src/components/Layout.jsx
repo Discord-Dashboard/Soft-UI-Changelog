@@ -40,12 +40,12 @@ function Glow() {
         <defs>
           <radialGradient id={`${id}-desktop`} cx="100%">
             <stop offset="0%" stopColor="rgba(56, 189, 248, 0.3)" />
-            <stop offset="53.95%" stopColor="rgba(0, 71, 255, 0.09)" />
+            <stop offset="53.95%" stopColor="rgba(100, 0, 153, 0.09)" />
             <stop offset="100%" stopColor="rgba(10, 14, 23, 0)" />
           </radialGradient>
           <radialGradient id={`${id}-mobile`} cy="100%">
             <stop offset="0%" stopColor="rgba(56, 189, 248, 0.3)" />
-            <stop offset="53.95%" stopColor="rgba(0, 71, 255, 0.09)" />
+            <stop offset="53.95%" stopColor="rgba(100, 0, 153, 0.09)" />
             <stop offset="100%" stopColor="rgba(10, 14, 23, 0)" />
           </radialGradient>
         </defs>
