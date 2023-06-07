@@ -1,8 +1,10 @@
 import Link from 'next/link'
 import React from 'react'
+import Image from 'next/image'
 
 import { IconLink } from '@/components/IconLink'
 import { Logo } from '@/components/Logo'
+import { AssistansLogo } from '@/components/AssistansLogo'
 import { SignUpForm } from '@/components/SignUpForm'
 
 function BookIcon(props) {
@@ -67,6 +69,7 @@ export function Intro() {
     <>
       <div>
         <Link href="/">
+          <Image src={'/Assistants_NoBG.png'} alt={'Logo'}></Image>
           <Logo className="inline-block h-8 w-auto" />
         </Link>
       </div>
