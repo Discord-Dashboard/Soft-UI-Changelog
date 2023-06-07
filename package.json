@@ -6,7 +6,7 @@
     "dev": "next dev",
     "start": "next start",
     "lint": "next lint",
-    "build": "node ./scripts/getMDX.js && next build && next export"
+    "build": "node ./scripts/getMDX.js && next build && next export && echo 'softui-changelog.assistantscenter.com' > out/CNAME"
   },
   "browserslist": "defaults, not ie <= 11",
   "dependencies": {
