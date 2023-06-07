@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Commit</title>
+        <title>Soft-UI</title>
         <link>undefined</link>
-        <description>Open-source Git client for macOS minimalists</description>
-        <lastBuildDate>Tue, 06 Jun 2023 19:31:37 GMT</lastBuildDate>
+        <description>See the latest updates from Soft-UI.</description>
+        <lastBuildDate>Wed, 07 Jun 2023 11:55:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
-            <title>Commit</title>
+            <title>Soft-UI</title>
             <url>undefined/favicon.ico</url>
             <link>undefined</link>
         </image>
@@ -26,7 +26,7 @@
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.43-beta.1...1.6.44-beta.1">https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.43-beta.1...1.6.44-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.43-beta.1]]></title>
@@ -41,7 +41,7 @@
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.42-beta.1...1.6.43-beta.1">https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.42-beta.1...1.6.43-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.42-beta.1]]></title>
@@ -56,7 +56,7 @@
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.39-beta.1...1.6.42-beta.1">https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.39-beta.1...1.6.42-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.41-beta.1]]></title>
@@ -73,7 +73,7 @@ Admin still loads with incorrect pterodactyl details
 Added option to add custom text to footer
 Fixed some text on credits page</p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.40-beta.1]]></title>
@@ -88,7 +88,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.39-beta.1...1.6.40-beta.1">https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.39-beta.1...1.6.40-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.39-beta.1]]></title>
@@ -105,7 +105,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.38-beta.1...1.6.39-beta.1">https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.38-beta.1...1.6.39-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.38-beta.1]]></title>
@@ -121,7 +121,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.37-beta.1...1.6.38-beta.1">https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.37-beta.1...1.6.38-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.37-beta.1]]></title>
@@ -136,7 +136,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.36-beta.1...1.6.37-beta.1">https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.36-beta.1...1.6.37-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.36-beta.1]]></title>
@@ -151,7 +151,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.35-beta.1...1.6.36-beta.1">https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.35-beta.1...1.6.36-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.35-beta.1]]></title>
@@ -168,7 +168,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.34-beta.1...1.6.35-beta.1">https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.34-beta.1...1.6.35-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.34-beta.1]]></title>
@@ -183,7 +183,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.33-beta.1...1.6.34-beta.1">https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.33-beta.1...1.6.34-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.33-beta.1]]></title>
@@ -206,7 +206,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.32-beta.1...1.6.33-beta.1">https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.32-beta.1...1.6.33-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.32-beta.1]]></title>
@@ -221,7 +221,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.6.31-beta.1...1.6.32-beta.1">https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.6.31-beta.1...1.6.32-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.31-beta.1]]></title>
@@ -236,7 +236,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.6.3-beta.1...1.6.31-beta.1">https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.6.3-beta.1...1.6.31-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.21-beta.1]]></title>
@@ -252,7 +252,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.6.2-beta.1...1.6.21-beta.1">https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.6.2-beta.1...1.6.21-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.3-beta.1]]></title>
@@ -267,7 +267,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.6.21-beta.1...1.6.3-beta.1">https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.6.21-beta.1...1.6.3-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.2-beta.1]]></title>
@@ -287,7 +287,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.6.1...1.6.2-beta.1">https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.6.1...1.6.2-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.1]]></title>
@@ -304,7 +304,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.6.0-beta.1...1.6.1">https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.6.0-beta.1...1.6.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.6.0-beta.1]]></title>
@@ -319,7 +319,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.63-beta.1...1.6.0-beta.1">https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.63-beta.1...1.6.0-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.5.63-beta.1]]></title>
@@ -335,7 +335,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.62-beta.1...1.5.63-beta.1">https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.62-beta.1...1.5.63-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.5.62-beta.1]]></title>
@@ -346,7 +346,7 @@ Fixed some text on credits page</p>
 
 <p>Fixed small typo</p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.5.61-beta.1]]></title>
@@ -361,7 +361,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.60-beta.1...1.5.61-beta.1">https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.60-beta.1...1.5.61-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.5.60-beta.1]]></title>
@@ -380,7 +380,7 @@ Fixed some text on credits page</p>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.59-beta.1...1.5.60-beta.1">https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.59-beta.1...1.5.60-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.5.59-beta.1]]></title>
@@ -391,7 +391,7 @@ Fixed some text on credits page</p>
 
 <p>Fixed efficient saving system</p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.5.58-beta.1]]></title>
@@ -402,7 +402,7 @@ Fixed some text on credits page</p>
 
 <p>Efficient save system has been implemented!</p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.5.57-beta.1]]></title>
@@ -413,7 +413,7 @@ Fixed some text on credits page</p>
 
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.56-beta.1...1.5.57-beta.1">https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.56-beta.1...1.5.57-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.5.56-beta.1]]></title>
@@ -424,7 +424,7 @@ Fixed some text on credits page</p>
 
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.55-beta.1...1.5.56-beta.1">https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.55-beta.1...1.5.56-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.5.55-beta.1]]></title>
@@ -435,7 +435,7 @@ Fixed some text on credits page</p>
 
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.53-beta.1...1.5.55-beta.1">https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.53-beta.1...1.5.55-beta.1</a></p>
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.5.53-beta.1]]></title>
@@ -445,7 +445,7 @@ Fixed some text on credits page</p>
             <content:encoded><![CDATA[<article><script type="text/metadata">{"id":"1553-beta1","title":"1.5.53-beta.1","date":"Wed Jan 11 2023 23:17:30 GMT+0000 (Greenwich Mean Time)"}</script>
 
 </article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
         <item>
             <title><![CDATA[1.5.52-beta.1]]></title>
@@ -459,7 +459,7 @@ Fixed some text on credits page</p>
 <li>Fixed custom pages by @iMidnights in <a href="https://github.com/Assistants-Center/DBD-Soft-UI/pull/32">https://github.com/Assistants-Center/DBD-Soft-UI/pull/32</a></li>
 </ul>
 <p><strong>Full Changelog</strong>: <a href="https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.51-beta.1...1.5.52-beta.1">https://github.com/Assistants-Center/DBD-Soft-UI/compare/1.5.51-beta.1...1.5.52-beta.1</a></p></article>]]></content:encoded>
-            <author>crazy.joe@example.com (Joe Davola)</author>
+            <author>info@assistantscenter.com (Assistants Center)</author>
         </item>
     </channel>
 </rss>
