@@ -4,7 +4,7 @@
         <title>Soft-UI</title>
         <link>undefined</link>
         <description>See the latest updates from Soft-UI.</description>
-        <lastBuildDate>Wed, 07 Jun 2023 13:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 18:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,11 +14,31 @@
         </image>
         <copyright>All rights reserved 2023</copyright>
         <item>
+            <title><![CDATA[1.6.45-beta.1]]></title>
+            <link>undefined/#1645-beta1</link>
+            <guid>undefined/#1645-beta1</guid>
+            <pubDate>Fri, 09 Jun 2023 19:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div>Test</div><article><script type="text/metadata">{"id":"1645-beta1","title":"1.6.45-beta.1","date":"Fri Jun 09 2023 20:15:27 GMT+0100 (British Summer Time)"}</script>
+
+
+<ul>
+<li>Install the CodeSee workflow. by @codesee-maps in <a href="https://github.com/Discord-Dashboard/Soft-UI/pull/70">https://github.com/Discord-Dashboard/Soft-UI/pull/70</a></li>
+<li>Update feeds graphs to match custom color scheme</li>
+</ul>
+
+<ul>
+<li>@codesee-maps made their first contribution in <a href="https://github.com/Discord-Dashboard/Soft-UI/pull/70">https://github.com/Discord-Dashboard/Soft-UI/pull/70</a></li>
+</ul>
+<p><strong>Full Changelog</strong>: <a href="https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.44-beta.1...1.6.45-beta.1">https://github.com/Discord-Dashboard/Soft-UI/compare/1.6.44-beta.1...1.6.45-beta.1</a></p>
+</article>]]></content:encoded>
+            <author>info@assistantscenter.com (Assistants Center)</author>
+        </item>
+        <item>
             <title><![CDATA[1.6.44-beta.1]]></title>
             <link>undefined/#1644-beta1</link>
             <guid>undefined/#1644-beta1</guid>
             <pubDate>Fri, 21 Apr 2023 15:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div>Test</div><article><script type="text/metadata">{"id":"1644-beta1","title":"1.6.44-beta.1","date":"Fri Apr 21 2023 16:18:27 GMT+0100 (British Summer Time)"}</script>
+            <content:encoded><![CDATA[<article><script type="text/metadata">{"id":"1644-beta1","title":"1.6.44-beta.1","date":"Fri Apr 21 2023 16:18:27 GMT+0100 (British Summer Time)"}</script>
 
 
 <ul>
